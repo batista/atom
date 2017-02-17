@@ -31,7 +31,7 @@ These are just guidelines, not rules. Use your best judgment, and feel free to p
 ## What should I know before I get started?
 
 ### Code of Conduct
-
+kk
 This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
 Please report unacceptable behavior to [atom@github.com](mailto:atom@github.com).
